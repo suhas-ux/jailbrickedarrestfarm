@@ -122,12 +122,12 @@ local function GoToNew()
                 if syn then
                     syn.queue_on_teleport(
                         crossServerSettings ..
-                            " loadstring(game:HttpGet('https://pastebin.com/raw/FVWyjDhe'))()"
+                            " loadstring(game:HttpGet('https://raw.githubusercontent.com/suhas-ux/jailbrickedarrestfarm/main/Jailbricked%20Arrest%20Farm.lua'))()"
                     )
                 else
                     queue_on_teleport(
                         crossServerSettings ..
-                            " loadstring(game:HttpGet('https://pastebin.com/raw/FVWyjDhe'))()"
+                            " loadstring(game:HttpGet('https://raw.githubusercontent.com/suhas-ux/jailbrickedarrestfarm/main/Jailbricked%20Arrest%20Farm.lua'))()"
                     )
                 end
             end
