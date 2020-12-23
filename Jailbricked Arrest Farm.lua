@@ -4,34 +4,34 @@
 local Hashes = {
     -- NEW 30.11.2020
 
-    EquipItem = "b01d8268",
-    Eject = "fda822a4",
-    SendVault = "d7adfec1",
-    TeamChange = "ffab989d",
-    Arrest = "c05c204f",
-    SpawnVehicle = "c9995c06",
-    RopeAttach = "f93f08ec",
-    GetDonut = "e5867ca1",
-    EatDonut = "ee7bb8c9",
-    EnterVehicle = "cf7fb131",
-    LockCar = "ffa0a153",
+     EquipItem = "d6843dd6",
+     Eject = "b2d56cf6",
+     SendVault = "b1127c59",
+     TeamChange = "bbe6909a",
+     Arrest = "b0eaab07",
+     SpawnVehicle = "e8ed25f8",
+     RopeAttach = "ff61e91f",
+     GetDonut = "b2406d36",
+     EatDonut = "dbafb82e",
+     EnterVehicle = "aa399d99",
+     LockCar = "dd6d1013"
 
 }
 
 local previousHashes = {
-    -- OLD 11.29.2020 (thanks to skullkid )
+    -- OLD 30.11.2020 (thanks to skullkid )
 
-     EquipItem = "a6a9e8a0",
-     Eject = "af6e6c42",
-     SendVault = "d69d2f45",
-     TeamChange = "c95ebbec",
-     Arrest = "c403456e",
-     SpawnVehicle = "ffb2e96b",
-     RopeAttach = "a15a911b",
-     GetDonut = "dd96918e",
-     EatDonut = "f205949f",
-     EnterVehicle = "d926aabb",
-     LockCar = "a6313785"
+EquipItem = "f0427af8",
+     Eject = "b6726516",
+     SendVault = "a4ab9cf2",
+     TeamChange = "c179c205",
+     Arrest = "c634c17d",
+     SpawnVehicle = "b320505b",
+     RopeAttach = "e4eaa1d9",
+     GetDonut = "ee0ba738",
+     EatDonut = "aa2edf82",
+     EnterVehicle = "feb9ac57",
+     LockCar = "dd21379f"
     --
     
 }
