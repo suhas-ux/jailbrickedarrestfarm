@@ -1627,7 +1627,7 @@ if true then
     end
     spawn(
         function()
-            wait(6)
+            wait(7)
             while true do
                 wait(1)
                 _first = msg_ad[__rnd:NextInteger(1, #msg_ad)]
