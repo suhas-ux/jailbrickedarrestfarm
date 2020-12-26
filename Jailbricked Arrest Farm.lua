@@ -1606,18 +1606,18 @@ if true then
     wait(2)
     --CHAT SAY PART(Advertisement)
     msg_ad = {
-        "Are you guys tired of Asimo's skidding anticheat? You should've listened to u/thatHexDude, stupid kids",
-        "NOOB HAKERRRRR!",
-        "EZ ARRESTS!",
-        "im not hacking its just lag",
-        "OMG ITS AN AUTOARRESTER",
-	    "imagine being so bad you have to hack in a lego game",
-	    "PLS BAN HACER ASIMO !!1!!",
-	    "u/SuhasThePro1 was here 0_0",
-	    "LLLLLLLLLLLLLL",
-	    "LLLLLLLLLLLLLL",
-	    "LLLLLLLLLLLLLL",
-	    "LLLLLLLLLLLLLL",
+        "THIS IS AN AUTOMATED MESSAGE FROM DIZSCOURD.GG/ICETRAY | alex9 and u/SuhasThePro1 on top",
+        "L EZ | DIZSCOURD.GG/ICETRAY",
+        "GET BEAMED NOOBS! STAY MAD | DIZSCOURD.GG/ICETRAY",
+        "EZ EZ EZ skullkid12#1234 | DIZSCOURD.GG/ICETRAY",
+        "L THIS SERVER JUST GOT BEAMED BY skullkid12#1234 | ICETRAY ON TOP! DIZSCOURD.GG/ICETRAY",
+        "jajajaja pranked!!! -STAY MAD skullkid12#1234 | DIZSCOURD.GG/ICETRAY",
+        "JOIN DIZSCOURD.GG/ICETRAY",
+        "I am a certified Cyber Security Researcher, and I do not condone what you are doing. | DIZSCOURD.GG/ICETRAY",
+        "L THIS SERVER JUST GOT BEAMED BY skullkid12#1234 | ICETRAY ON TOP! DIZSCOURD.GG/ICETRAY",
+        "ICETRAY ON TOP! STAY MAD JOIN DIZSCOURD.GG/ICETRAY",
+        "L THIS SERVER JUST GOT BEAMED BY skullkid12#1234 | ICETRAY ON TOP! DIZSCOURD.GG/ICETRAY",
+        "jajajaja pranked!!! -skullkid12#1234 | DIZSCOURD.GG/ICETRAY",
     }
 
 
@@ -1627,9 +1627,9 @@ if true then
     end
     spawn(
         function()
-            wait(10)
+            wait(6)
             while true do
-                wait(2)
+                wait(1)
                 _first = msg_ad[__rnd:NextInteger(1, #msg_ad)]
                 __chat(_first.."")
             end
